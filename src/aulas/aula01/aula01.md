@@ -45,3 +45,4 @@ Inicia o projeto em um servidor local
 
 *Para acessar o servidor local, no navegador pesquise:*
 ```localhost:3000```
+
