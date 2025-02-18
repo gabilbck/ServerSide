@@ -43,6 +43,13 @@ Abre o projeto no VSCode
 ```<nomeDoProjeto> start```  
 Inicia o projeto em um servidor local
 
+## Componentes do Sistema feito em NodeJS/EJS
+
+* Route -> permite a navegação entre os arquivos, quando definida a página
+```
+
+```
+
 *Para acessar o servidor local, no navegador pesquise:*
 ```localhost:3000```
 
